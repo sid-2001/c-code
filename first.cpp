@@ -10,7 +10,7 @@ vector<int> s;
   // add items to priority_queue
   numbers.push(1);
   numbers.push(20);
-  numbers.push(7);
+  numbers.push(20);
 
   cout << "Priority Queue: ";
   cout<<"hello";
