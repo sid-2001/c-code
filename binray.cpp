@@ -7,7 +7,7 @@ int main(){
 //     while(a!=0){
 // cout<<a%2;
 // a=a/2;
-
+//Added the commit of today
 
 //     }
     
