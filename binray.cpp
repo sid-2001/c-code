@@ -8,6 +8,7 @@ int main(){
 // cout<<a%2;
 // a=a/2;
 //Added the commit of today
+//Cout<<"jai Shree ram";
 
 //     }
     
